@@ -3,7 +3,7 @@ Version: 1.0.0
 Architecture: all
 Maintainer: Lalit Gurjar <kalpeshgujar70@gmail.com>
 Depends: nodejs
-Filename: ./mytodo-deb.deb
+Filename: ./mytodo_1.0.0_all.deb
 Size: 63448
 MD5sum: a53eb2bd84c455e58b9c968857d56b74
 SHA1: bc4fe1533d968e3825717d7fa88738f6e6de2674
