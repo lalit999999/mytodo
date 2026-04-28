@@ -1,0 +1,17 @@
+Package: mytodo
+Version: 1.0.0
+Architecture: all
+Maintainer: Lalit Gurjar <kalpeshgujar70@gmail.com>
+Depends: nodejs
+Filename: ./mytodo-deb.deb
+Size: 63448
+MD5sum: a53eb2bd84c455e58b9c968857d56b74
+SHA1: bc4fe1533d968e3825717d7fa88738f6e6de2674
+SHA256: 967aca28a50357bfe5de4cc2e73043dd401b93760a002428697c98acc5637cc6
+Section: utils
+Priority: optional
+Description: CLI todo app built with Node.js
+ A simple command-line todo application that supports
+ adding, listing, editing, completing, and deleting tasks
+ with priority and timestamp features.
+
